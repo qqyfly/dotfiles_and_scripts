@@ -1,2 +1,8 @@
 # Dotfiles and scripts
-Dot files and other scripts when reinstall Linux Desktop or VPS
+This project mainly focus on provide the Dotfiles and other scripts when reinstall Linux Desktop or VPS.
+
+## Structure
+
+- Linux 
+- VPS
+- Mac
